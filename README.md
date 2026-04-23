@@ -4,9 +4,10 @@ This repository contains the reproducibility package for a systematic mapping st
 
 ## Documentation
 
-- [Phase 4 SMS Methodology](phase4-sms-methodology.md) - Complete classification methodology and workflow
-- [Controlled Vocabularies](phase4-controlled-vocabularies.md) - Taxonomy for RAG techniques, ITSM applications, and implementation challenges
-- [Relevance Scoring Documentation](relevance-scoring-prompts-documentation.md) - Dual-dimension scoring approach and prompts
+- [Search Strategy Term Combinations](search_strategy_term_combinations.md) - Phase 2: Three-tier search strategy with all 25 term combinations across 5 databases
+- [Relevance Scoring Documentation](relevance-scoring-prompts-documentation.md) - Phase 3: Dual-dimension screening thresholds, scoring prompts and algorithms
+- [Phase 4 SMS Methodology](phase4-sms-methodology.md) - Phase 5: AI-assisted classification methodology and workflow
+- [Controlled Vocabularies](phase4-controlled-vocabularies.md) - Phase 5: Taxonomy for RAG techniques, ITSM applications, and implementation challenges
 - [Abstract](abstract.txt) - Study abstract with key findings
 
 ## Data Files
